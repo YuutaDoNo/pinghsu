@@ -71,7 +71,7 @@
         </p>
 		<?php parseContent($this); ?>
 		<p class="post-info">
-			
+			幻之字幕组制作，仅用于技术交流，禁止任何人用于商业用途。
 		</p>
 	</div>
 </article>
