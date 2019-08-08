@@ -1,12 +1,12 @@
 基本设置：站点名称Mabors Subs。 编辑描述与关键词  
 阅读设置：每页文章数6  
 永久链接：启用重写wordpress风格  
+独立页面：关于(about) 标签(tags) 分类(categories) 如何下载(howtodownload)
   
 主题设置：三栏 启用文章题图 启用相关文章  
   
 ## Pinghsu Theme
 
-![](https://ws1.sinaimg.cn/large/7c98397dgy1fdydr3jw0yj20rs0fntaz.jpg)
 
 **主题介绍**
 
